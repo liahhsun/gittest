@@ -5,6 +5,6 @@ public class HelloWorld{
 		String name = "King";
 		int age = 100;
 		double weight = 19;
-		
+		String nickname = "wong";
 	}
 }
